@@ -16,8 +16,10 @@ efficiency and effectiveness of sleep precaution glasses for a safe driving and 
 processes.
 <br>
 It is developed through Arduino open-source IDE : Internet of Things
+![Device Image](device.png)
 <br>
 The diagram shows the working of device.
+![Working of device](device-1.png)
 <br>
 <br>
 <br>
