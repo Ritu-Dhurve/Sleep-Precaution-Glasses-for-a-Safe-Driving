@@ -15,9 +15,11 @@ IoT capabilities enables real-time monitoring, data processing, and remote acces
 efficiency and effectiveness of sleep precaution glasses for a safe driving and decision-making 
 processes.
 <br>
+<br>
 It is developed through Arduino open-source IDE : Internet of Things
 <br>
 ![Device Image](device.png)
+<br>
 <br>
 The diagram shows the working of device.
 <br>
